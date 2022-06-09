@@ -33,12 +33,12 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 ### Conclusion:
 - From the metric analysis we notice fluctuations throughout the year which in
 turn is helpful for applying various business strategies and deriving insightful
-results.
+results.<br>
 We have also seen from our pareto principle that 80% revenue consequences
 come from 20% customer and product causes.
 - Using our customer database having categorized the various customers, we
 obtained number of best, loyal, lost customers and provide specific kind of
-offers on each category
+offers on each category<br>
 For example some discounts coupons on almost lost customers to lure them
 into buying products, loyal and best customers receive premium cards and
 thereby encouraging our relationship with them.
@@ -52,3 +52,9 @@ for one year period. Thus we have a lead on our company's revenue map and
 thereby making the appropriate changes to our budget.
 Therefore, using various strategies we are our taking our business one step
 ahead
+
+### Future enhancement
+- Using linear regression model we predict future sales and can observe
+how various factors like quantity, price and gender can affect sales.
+- Compare our time series analysis results with linear regression
+prediction results.
