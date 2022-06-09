@@ -18,3 +18,12 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 - UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
 - CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal. The name of the country where a customer resides.
+- gender: Gender of the customer.
+- age: age of the customer.
+
+## Objective:
+
+1. Obtaining metrics for the retail sales data.
+2. Performing market basket analysis on the given data.
+3. Customer segmentation on retail data.
+4. Detailed sales prediction using time series of given data.
