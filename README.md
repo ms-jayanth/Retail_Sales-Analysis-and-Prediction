@@ -27,3 +27,28 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 2. Performing market basket analysis on the given data.
 3. Customer segmentation on retail data.
 4. Detailed sales prediction using time series of given data.
+
+## Conclusion and Future Enhancement
+
+### Conclusion:
+- From the metric analysis we notice fluctuations throughout the year which in
+turn is helpful for applying various business strategies and deriving insightful
+results.
+We have also seen from our pareto principle that 80% revenue consequences
+come from 20% customer and product causes.
+- Using our customer database having categorized the various customers, we
+obtained number of best, loyal, lost customers and provide specific kind of
+offers on each category
+For example some discounts coupons on almost lost customers to lure them
+into buying products, loyal and best customers receive premium cards and
+thereby encouraging our relationship with them.
+Thus increasing our margin in the profit businesses
+- Making use of our knowledge on metrics we dwell into Market basket
+analysis. Our Market basket analysis shows the association between different
+products and relationships portray to make business more profitable by giving
+discounts and premium offers.
+- Last but not the least, We performed forecasting on our sales revenue data
+for one year period. Thus we have a lead on our company's revenue map and
+thereby making the appropriate changes to our budget.
+Therefore, using various strategies we are our taking our business one step
+ahead
