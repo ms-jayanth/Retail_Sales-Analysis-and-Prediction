@@ -18,8 +18,8 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 - UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
 - CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal. The name of the country where a customer resides.
-- gender: Gender of the customer.
-- age: age of the customer.
+- Gender: Gender of the customer.
+- Age: age of the customer.
 
 ## Objective:
 
