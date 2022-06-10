@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis-and-Prediction
+# Retail Sales: Analysis and Prediction
 
 ## Dataset:
 https://drive.google.com/file/d/1ordH5hQATOeeGFXrTiE-GhpESvaxBrLC/view?usp=sharing
