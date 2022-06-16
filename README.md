@@ -36,7 +36,7 @@ turn is helpful for applying various business strategies and deriving insightful
 results.<br>
 https://drive.google.com/file/d/1nrx9b5jRZgUClqBOjnWpUF9KuTw_94DD/view?usp=sharing
 
-We have also seen from our pareto principle that 80% revenue consequences
+  We have also seen from our pareto principle that 80% revenue consequences
 come from 20% customer and product causes.
 - Using our customer database having categorized the various customers, we
 obtained number of best, loyal, lost customers and provide specific kind of
