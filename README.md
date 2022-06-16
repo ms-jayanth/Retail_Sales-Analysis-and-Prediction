@@ -35,7 +35,7 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 turn is helpful for applying various business strategies and deriving insightful
 results.<br>
 https://drive.google.com/file/d/1nrx9b5jRZgUClqBOjnWpUF9KuTw_94DD/view?usp=sharing
-<br>
+
 We have also seen from our pareto principle that 80% revenue consequences
 come from 20% customer and product causes.
 - Using our customer database having categorized the various customers, we
